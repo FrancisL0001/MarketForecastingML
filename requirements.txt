@@ -1,0 +1,34 @@
+# All tools as mentioned in the README.md file
+
+# Development
+# python==3.13.7
+
+# Data processing
+pandas==3.1.0
+polars==2.1.0
+numpy==2.5.4
+pyarrow==25.0.1
+
+# Validation
+pandera[pandas]==0.35.0
+pytest==9.2.0
+
+# ML
+scikit-learn==1.9.1
+lightgbm==4.7.0
+torch==2.15.0
+
+# Evaluation
+backtesting==0.6.5
+
+# Experiments
+mlflow==3.17.0
+
+# API
+fastapi==0.162.0
+pydantic==2.14.2
+uvicorn==0.54.0
+
+# Documentation
+markdown==3.11.2
+mmdc==0.6.2

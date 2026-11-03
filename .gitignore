@@ -1,0 +1,28 @@
+# Python
+*.py[cod]
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+
+# Claude
+*.claude
+
+# Data
+data/
